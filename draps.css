@@ -1,0 +1,11 @@
+
+body {
+    background-image: url("galerie /file_000000000ddc61f4993452f5bce38b17.png"); /* Chemin de ton image */
+    background-size: cover; /* L’image couvre tout l’écran */
+    background-position: center; /* Centrer l’image */
+    background-repeat: no-repeat; /* Évite la répétition de l’image */
+    height: 100vh; /* Hauteur = taille de la fenêtre */
+    margin: 0; /* Supprime les marges par défaut */
+    color: white; /* Couleur du texte visible sur l’image */
+    text-align: center;
+}
